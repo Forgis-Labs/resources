@@ -33,4 +33,4 @@ will not line up. Cut each tile on its trim line and tape them together.
 Come talk to us in the [Forgis Slack](https://join.slack.com/t/forgis/shared_invite/zt-4ger6d286-6oV9F2sejyTxd3R6gcKZ~g).
 That's where we work through the questions together and post updates first.
 
-Made by [Forgis](https://forgis.com).
+Made by [Forgis](https://www.forgis.com).
